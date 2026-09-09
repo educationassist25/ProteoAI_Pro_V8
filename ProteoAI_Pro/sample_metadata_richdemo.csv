@@ -1,0 +1,44 @@
+Sample,Group,IsQC,Batch,Diagnosis,Age,Gender,Treatment,Ethnicity,Body Weight
+HealthyControl_1,Healthy Control,False,1,Healthy Control,31,Female,Untreated,Hispanic/Latino,49.0
+HealthyControl_2,Healthy Control,False,1,Healthy Control,43,Female,Untreated,Caucasian,82.2
+HealthyControl_3,Healthy Control,False,1,Healthy Control,40,Female,Untreated,Caucasian,54.7
+HealthyControl_4,Healthy Control,False,1,Healthy Control,35,Male,Untreated,African American,77.5
+HealthyControl_5,Healthy Control,False,2,Healthy Control,25,Female,Untreated,Caucasian,53.2
+HealthyControl_6,Healthy Control,False,2,Healthy Control,29,Female,Untreated,Caucasian,47.0
+HealthyControl_7,Healthy Control,False,2,Healthy Control,26,Male,Untreated,Caucasian,53.3
+HealthyControl_8,Healthy Control,False,2,Healthy Control,37,Female,Untreated,Caucasian,71.7
+HealthyControl_9,Healthy Control,False,2,Healthy Control,36,Female,Untreated,African American,80.8
+Prediabetic_1,Prediabetic,False,1,Prediabetic,45,Male,Diet & Exercise,Caucasian,82.6
+Prediabetic_2,Prediabetic,False,1,Prediabetic,55,Female,Diet & Exercise,Caucasian,81.8
+Prediabetic_3,Prediabetic,False,1,Prediabetic,41,Female,Untreated,African American,98.4
+Prediabetic_4,Prediabetic,False,1,Prediabetic,34,Female,Untreated,Caucasian,75.5
+Prediabetic_5,Prediabetic,False,2,Prediabetic,47,Male,Diet & Exercise,Asian,89.6
+Prediabetic_6,Prediabetic,False,2,Prediabetic,45,Female,Untreated,African American,97.5
+Prediabetic_7,Prediabetic,False,2,Prediabetic,39,Male,Diet & Exercise,Caucasian,79.6
+Prediabetic_8,Prediabetic,False,2,Prediabetic,53,Male,Diet & Exercise,Caucasian,88.8
+Prediabetic_9,Prediabetic,False,2,Prediabetic,36,Female,Untreated,Caucasian,93.8
+Type2Diabetes_1,Type 2 Diabetes,False,1,Type 2 Diabetes,35,Female,Insulin,Asian,81.2
+Type2Diabetes_2,Type 2 Diabetes,False,1,Type 2 Diabetes,55,Female,Diet & Exercise,Caucasian,84.5
+Type2Diabetes_3,Type 2 Diabetes,False,1,Type 2 Diabetes,61,Male,Diet & Exercise,Hispanic/Latino,113.7
+Type2Diabetes_4,Type 2 Diabetes,False,1,Type 2 Diabetes,52,Male,Metformin,Caucasian,72.1
+Type2Diabetes_5,Type 2 Diabetes,False,2,Type 2 Diabetes,41,Female,Insulin,Caucasian,86.7
+Type2Diabetes_6,Type 2 Diabetes,False,2,Type 2 Diabetes,48,Female,Insulin,Caucasian,88.2
+Type2Diabetes_7,Type 2 Diabetes,False,2,Type 2 Diabetes,43,Male,Metformin,Hispanic/Latino,90.2
+Type2Diabetes_8,Type 2 Diabetes,False,2,Type 2 Diabetes,60,Female,Insulin,Caucasian,84.2
+Type2Diabetes_9,Type 2 Diabetes,False,2,Type 2 Diabetes,51,Female,Metformin,Other,93.1
+MetabolicSyndrome_1,Metabolic Syndrome,False,1,Metabolic Syndrome,63,Male,Diet & Exercise,Asian,87.6
+MetabolicSyndrome_2,Metabolic Syndrome,False,1,Metabolic Syndrome,47,Female,Metformin,Hispanic/Latino,79.1
+MetabolicSyndrome_3,Metabolic Syndrome,False,1,Metabolic Syndrome,60,Male,Metformin,Asian,70.7
+MetabolicSyndrome_4,Metabolic Syndrome,False,1,Metabolic Syndrome,57,Male,Diet & Exercise,Hispanic/Latino,92.2
+MetabolicSyndrome_5,Metabolic Syndrome,False,2,Metabolic Syndrome,56,Female,Diet & Exercise,African American,73.9
+MetabolicSyndrome_6,Metabolic Syndrome,False,2,Metabolic Syndrome,45,Female,Metformin,Caucasian,81.8
+MetabolicSyndrome_7,Metabolic Syndrome,False,2,Metabolic Syndrome,61,Female,Metformin,Caucasian,75.6
+MetabolicSyndrome_8,Metabolic Syndrome,False,2,Metabolic Syndrome,53,Female,Metformin,Other,96.4
+MetabolicSyndrome_9,Metabolic Syndrome,False,2,Metabolic Syndrome,77,Female,Metformin,African American,93.8
+QC_1,QC,True,1,QC,,QC,QC,QC,
+QC_2,QC,True,1,QC,,QC,QC,QC,
+QC_3,QC,True,1,QC,,QC,QC,QC,
+QC_4,QC,True,2,QC,,QC,QC,QC,
+QC_5,QC,True,2,QC,,QC,QC,QC,
+QC_6,QC,True,2,QC,,QC,QC,QC,
+Reference_Pool,Reference,False,1,Reference,,Reference,Reference,Reference,

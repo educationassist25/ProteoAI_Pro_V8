@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+openpyxl
+adjustText
+requests
+networkx
+Pillow

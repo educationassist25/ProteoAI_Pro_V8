@@ -1,0 +1,201 @@
+Protein,Gene,Method,Pathway
+ABCC8_HUMAN,ABCC8,Label-Free Proteomics,Amino Acid Metabolism
+ABCG1_HUMAN,ABCG1,Label-Free Proteomics,Amino Acid Metabolism
+ABCG5_HUMAN,ABCG5,TMT Proteomics,Sphingolipid Metabolism
+ABCG8_HUMAN,ABCG8,Label-Free Proteomics,Fatty Acid Oxidation
+ACACA_HUMAN,ACACA,TMT Proteomics,Sphingolipid Metabolism
+ACACB_HUMAN,ACACB,Label-Free Proteomics,Bile Acid Metabolism
+ACADM_HUMAN,ACADM,TMT Proteomics,Fatty Acid Oxidation
+ACADVL_HUMAN,ACADVL,TMT Proteomics,Fatty Acid Oxidation
+ACOX1_HUMAN,ACOX1,Label-Free Proteomics,Fatty Acid Oxidation
+ADCY5_HUMAN,ADCY5,TMT Proteomics,Sphingolipid Metabolism
+ADIPOQ_HUMAN,ADIPOQ,Label-Free Proteomics,Amino Acid Metabolism
+ADIPOR2_HUMAN,ADIPOR2,Label-Free Proteomics,Glycolysis
+AGT_HUMAN,AGT,Label-Free Proteomics,TCA Cycle
+AGTR1_HUMAN,AGTR1,Label-Free Proteomics,Bile Acid Metabolism
+AKT1_HUMAN,AKT1,Label-Free Proteomics,Lipid Metabolism
+AKT2_HUMAN,AKT2,TMT Proteomics,Lipid Metabolism
+AKT3_HUMAN,AKT3,TMT Proteomics,TCA Cycle
+ALB_HUMAN,ALB,Label-Free Proteomics,Steroid Hormone Biosynthesis
+APOA1_HUMAN,APOA1,Label-Free Proteomics,Nucleotide Metabolism
+APOA2_HUMAN,APOA2,Label-Free Proteomics,Amino Acid Metabolism
+APOA5_HUMAN,APOA5,TMT Proteomics,Nucleotide Metabolism
+APOB_HUMAN,APOB,Label-Free Proteomics,Glycolysis
+APOC1_HUMAN,APOC1,Label-Free Proteomics,Purine Metabolism
+APOC2_HUMAN,APOC2,Label-Free Proteomics,TCA Cycle
+APOC3_HUMAN,APOC3,Label-Free Proteomics,Steroid Hormone Biosynthesis
+APOE_HUMAN,APOE,Label-Free Proteomics,Sphingolipid Metabolism
+ATF4_HUMAN,ATF4,Label-Free Proteomics,Purine Metabolism
+ATF6_HUMAN,ATF6,TMT Proteomics,Lipid Metabolism
+BAX_HUMAN,BAX,Label-Free Proteomics,Purine Metabolism
+BCL2_HUMAN,BCL2,Label-Free Proteomics,Lipid Metabolism
+C3_HUMAN,C3,Label-Free Proteomics,Fatty Acid Oxidation
+C4A_HUMAN,C4A,Label-Free Proteomics,Bile Acid Metabolism
+CAP1_HUMAN,CAP1,TMT Proteomics,Nucleotide Metabolism
+CASP1_HUMAN,CASP1,Label-Free Proteomics,TCA Cycle
+CASP3_HUMAN,CASP3,Label-Free Proteomics,Purine Metabolism
+CAT_HUMAN,CAT,Label-Free Proteomics,Nucleotide Metabolism
+CBL_HUMAN,CBL,TMT Proteomics,Fatty Acid Oxidation
+CCR2_HUMAN,CCR2,Label-Free Proteomics,Fatty Acid Oxidation
+CDKAL1_HUMAN,CDKAL1,Label-Free Proteomics,Steroid Hormone Biosynthesis
+CDKN1A_HUMAN,CDKN1A,Label-Free Proteomics,Nucleotide Metabolism
+CDKN2A_HUMAN,CDKN2A,Label-Free Proteomics,Glycolysis
+CDKN2B_HUMAN,CDKN2B,Label-Free Proteomics,Steroid Hormone Biosynthesis
+CETP_HUMAN,CETP,TMT Proteomics,Glycolysis
+CHUK_HUMAN,CHUK,Label-Free Proteomics,Lipid Metabolism
+CKM_HUMAN,CKM,TMT Proteomics,Bile Acid Metabolism
+CPT1A_HUMAN,CPT1A,TMT Proteomics,Steroid Hormone Biosynthesis
+CPT1B_HUMAN,CPT1B,TMT Proteomics,Glycolysis
+CPT2_HUMAN,CPT2,TMT Proteomics,Sphingolipid Metabolism
+CRP_HUMAN,CRP,Label-Free Proteomics,TCA Cycle
+CYP27A1_HUMAN,CYP27A1,Label-Free Proteomics,Glycolysis
+CYP7A1_HUMAN,CYP7A1,Label-Free Proteomics,Lipid Metabolism
+DDIT3_HUMAN,DDIT3,TMT Proteomics,Bile Acid Metabolism
+DGAT2_HUMAN,DGAT2,TMT Proteomics,Fatty Acid Oxidation
+EDN1_HUMAN,EDN1,Label-Free Proteomics,Fatty Acid Oxidation
+EGFR_HUMAN,EGFR,Label-Free Proteomics,Glycolysis
+ELOVL6_HUMAN,ELOVL6,Label-Free Proteomics,Purine Metabolism
+EPO_HUMAN,EPO,Label-Free Proteomics,Purine Metabolism
+ERN1_HUMAN,ERN1,Label-Free Proteomics,Glycolysis
+F10_HUMAN,F10,TMT Proteomics,Lipid Metabolism
+F2_HUMAN,F2,Label-Free Proteomics,TCA Cycle
+F7_HUMAN,F7,TMT Proteomics,Amino Acid Metabolism
+FASN_HUMAN,FASN,Label-Free Proteomics,Glycolysis
+FGA_HUMAN,FGA,TMT Proteomics,Lipid Metabolism
+FGB_HUMAN,FGB,Label-Free Proteomics,Nucleotide Metabolism
+FGF21_HUMAN,FGF21,Label-Free Proteomics,Steroid Hormone Biosynthesis
+FGFR1_HUMAN,FGFR1,Label-Free Proteomics,TCA Cycle
+FGG_HUMAN,FGG,Label-Free Proteomics,Bile Acid Metabolism
+FNDC5_HUMAN,FNDC5,Label-Free Proteomics,Bile Acid Metabolism
+FOS_HUMAN,FOS,Label-Free Proteomics,Sphingolipid Metabolism
+FOXO1_HUMAN,FOXO1,Label-Free Proteomics,Steroid Hormone Biosynthesis
+FOXO3_HUMAN,FOXO3,Label-Free Proteomics,Lipid Metabolism
+FTO_HUMAN,FTO,TMT Proteomics,Amino Acid Metabolism
+G6PC_HUMAN,G6PC,TMT Proteomics,Steroid Hormone Biosynthesis
+G6PC2_HUMAN,G6PC2,Label-Free Proteomics,Lipid Metabolism
+GAPDH_HUMAN,GAPDH,Label-Free Proteomics,Nucleotide Metabolism
+GCK_HUMAN,GCK,Label-Free Proteomics,Amino Acid Metabolism
+GGT1_HUMAN,GGT1,Label-Free Proteomics,Sphingolipid Metabolism
+GLIS3_HUMAN,GLIS3,Label-Free Proteomics,Fatty Acid Oxidation
+GOT1_HUMAN,GOT1,Label-Free Proteomics,TCA Cycle
+GPT_HUMAN,GPT,Label-Free Proteomics,Lipid Metabolism
+GPX1_HUMAN,GPX1,Label-Free Proteomics,TCA Cycle
+GSK3A_HUMAN,GSK3A,TMT Proteomics,Bile Acid Metabolism
+GSK3B_HUMAN,GSK3B,Label-Free Proteomics,TCA Cycle
+GYS1_HUMAN,GYS1,Label-Free Proteomics,Steroid Hormone Biosynthesis
+GYS2_HUMAN,GYS2,TMT Proteomics,TCA Cycle
+HIF1A_HUMAN,HIF1A,Label-Free Proteomics,Sphingolipid Metabolism
+HMGCR_HUMAN,HMGCR,TMT Proteomics,Purine Metabolism
+HMOX1_HUMAN,HMOX1,Label-Free Proteomics,Nucleotide Metabolism
+HNF1A_HUMAN,HNF1A,Label-Free Proteomics,Amino Acid Metabolism
+HNF4A_HUMAN,HNF4A,TMT Proteomics,Steroid Hormone Biosynthesis
+HSP90AA1_HUMAN,HSP90AA1,Label-Free Proteomics,TCA Cycle
+IFNG_HUMAN,IFNG,Label-Free Proteomics,Nucleotide Metabolism
+IGF2BP2_HUMAN,IGF2BP2,TMT Proteomics,TCA Cycle
+IL10_HUMAN,IL10,Label-Free Proteomics,Sphingolipid Metabolism
+IL13_HUMAN,IL13,Label-Free Proteomics,Bile Acid Metabolism
+IL17A_HUMAN,IL17A,Label-Free Proteomics,Fatty Acid Oxidation
+IL1B_HUMAN,IL1B,Label-Free Proteomics,Lipid Metabolism
+IL1R1_HUMAN,IL1R1,Label-Free Proteomics,Amino Acid Metabolism
+IL4_HUMAN,IL4,Label-Free Proteomics,Sphingolipid Metabolism
+IL6_HUMAN,IL6,TMT Proteomics,Bile Acid Metabolism
+IL6R_HUMAN,IL6R,TMT Proteomics,Nucleotide Metabolism
+INS_HUMAN,INS,TMT Proteomics,Sphingolipid Metabolism
+INSIG1_HUMAN,INSIG1,TMT Proteomics,Sphingolipid Metabolism
+INSR_HUMAN,INSR,Label-Free Proteomics,Bile Acid Metabolism
+IRS1_HUMAN,IRS1,Label-Free Proteomics,Lipid Metabolism
+IRS2_HUMAN,IRS2,Label-Free Proteomics,Sphingolipid Metabolism
+IRS4_HUMAN,IRS4,TMT Proteomics,Glycolysis
+JUN_HUMAN,JUN,Label-Free Proteomics,TCA Cycle
+KCNJ11_HUMAN,KCNJ11,TMT Proteomics,Bile Acid Metabolism
+KCNQ1_HUMAN,KCNQ1,TMT Proteomics,Sphingolipid Metabolism
+KLB_HUMAN,KLB,TMT Proteomics,Steroid Hormone Biosynthesis
+LCN2_HUMAN,LCN2,Label-Free Proteomics,Steroid Hormone Biosynthesis
+LDLR_HUMAN,LDLR,TMT Proteomics,Steroid Hormone Biosynthesis
+LDLRAP1_HUMAN,LDLRAP1,Label-Free Proteomics,TCA Cycle
+LEPR_HUMAN,LEPR,Label-Free Proteomics,Glycolysis
+LIPC_HUMAN,LIPC,TMT Proteomics,TCA Cycle
+LIPE_HUMAN,LIPE,Label-Free Proteomics,Sphingolipid Metabolism
+LIPG_HUMAN,LIPG,Label-Free Proteomics,Nucleotide Metabolism
+MC4R_HUMAN,MC4R,Label-Free Proteomics,Nucleotide Metabolism
+MDM2_HUMAN,MDM2,Label-Free Proteomics,Glycolysis
+MGLL_HUMAN,MGLL,Label-Free Proteomics,Sphingolipid Metabolism
+MSTN_HUMAN,MSTN,TMT Proteomics,Lipid Metabolism
+MTOR_HUMAN,MTOR,Label-Free Proteomics,Glycolysis
+MYC_HUMAN,MYC,Label-Free Proteomics,Fatty Acid Oxidation
+MYOD1_HUMAN,MYOD1,Label-Free Proteomics,Nucleotide Metabolism
+NAMPT_HUMAN,NAMPT,Label-Free Proteomics,Fatty Acid Oxidation
+NFKB1_HUMAN,NFKB1,Label-Free Proteomics,Fatty Acid Oxidation
+NFKB2_HUMAN,NFKB2,Label-Free Proteomics,Amino Acid Metabolism
+NLRP3_HUMAN,NLRP3,Label-Free Proteomics,Sphingolipid Metabolism
+NOS2_HUMAN,NOS2,Label-Free Proteomics,Amino Acid Metabolism
+NPPA_HUMAN,NPPA,TMT Proteomics,Bile Acid Metabolism
+NPPB_HUMAN,NPPB,TMT Proteomics,TCA Cycle
+NR0B2_HUMAN,NR0B2,TMT Proteomics,Fatty Acid Oxidation
+NR1H3_HUMAN,NR1H3,TMT Proteomics,Steroid Hormone Biosynthesis
+NR1H4_HUMAN,NR1H4,TMT Proteomics,Glycolysis
+PCK1_HUMAN,PCK1,Label-Free Proteomics,Nucleotide Metabolism
+PCSK9_HUMAN,PCSK9,Label-Free Proteomics,Lipid Metabolism
+PDPK1_HUMAN,PDPK1,Label-Free Proteomics,Bile Acid Metabolism
+PIK3CA_HUMAN,PIK3CA,Label-Free Proteomics,Steroid Hormone Biosynthesis
+PIK3R1_HUMAN,PIK3R1,TMT Proteomics,Bile Acid Metabolism
+PIK3R2_HUMAN,PIK3R2,Label-Free Proteomics,Glycolysis
+PLAT_HUMAN,PLAT,Label-Free Proteomics,Sphingolipid Metabolism
+PLAU_HUMAN,PLAU,TMT Proteomics,Fatty Acid Oxidation
+PLIN1_HUMAN,PLIN1,Label-Free Proteomics,Glycolysis
+PLIN2_HUMAN,PLIN2,Label-Free Proteomics,Bile Acid Metabolism
+PNPLA2_HUMAN,PNPLA2,TMT Proteomics,Sphingolipid Metabolism
+PPARA_HUMAN,PPARA,TMT Proteomics,Fatty Acid Oxidation
+PPARD_HUMAN,PPARD,Label-Free Proteomics,Steroid Hormone Biosynthesis
+PPARG_HUMAN,PPARG,Label-Free Proteomics,Fatty Acid Oxidation
+PPARGC1A_HUMAN,PPARGC1A,Label-Free Proteomics,Amino Acid Metabolism
+PPP1R3A_HUMAN,PPP1R3A,Label-Free Proteomics,Glycolysis
+PRKAA1_HUMAN,PRKAA1,Label-Free Proteomics,Sphingolipid Metabolism
+PRKAA2_HUMAN,PRKAA2,Label-Free Proteomics,Sphingolipid Metabolism
+PRKAB1_HUMAN,PRKAB1,Label-Free Proteomics,Glycolysis
+PRKAB2_HUMAN,PRKAB2,Label-Free Proteomics,Fatty Acid Oxidation
+PRKAG1_HUMAN,PRKAG1,Label-Free Proteomics,Amino Acid Metabolism
+PRKCZ_HUMAN,PRKCZ,TMT Proteomics,Glycolysis
+PTEN_HUMAN,PTEN,TMT Proteomics,Sphingolipid Metabolism
+PTPN1_HUMAN,PTPN1,TMT Proteomics,Sphingolipid Metabolism
+PYGL_HUMAN,PYGL,Label-Free Proteomics,Fatty Acid Oxidation
+PYGM_HUMAN,PYGM,Label-Free Proteomics,Steroid Hormone Biosynthesis
+RELA_HUMAN,RELA,Label-Free Proteomics,Glycolysis
+REN_HUMAN,REN,Label-Free Proteomics,Amino Acid Metabolism
+RETN_HUMAN,RETN,TMT Proteomics,Glycolysis
+RICTOR_HUMAN,RICTOR,Label-Free Proteomics,Purine Metabolism
+RPS6KB1_HUMAN,RPS6KB1,Label-Free Proteomics,Lipid Metabolism
+RPTOR_HUMAN,RPTOR,TMT Proteomics,Bile Acid Metabolism
+RXRA_HUMAN,RXRA,TMT Proteomics,Purine Metabolism
+SAA1_HUMAN,SAA1,Label-Free Proteomics,Steroid Hormone Biosynthesis
+SCAP_HUMAN,SCAP,Label-Free Proteomics,Lipid Metabolism
+SCARB1_HUMAN,SCARB1,TMT Proteomics,TCA Cycle
+SCD_HUMAN,SCD,TMT Proteomics,Lipid Metabolism
+SELE_HUMAN,SELE,TMT Proteomics,Lipid Metabolism
+SERPINA1_HUMAN,SERPINA1,Label-Free Proteomics,Steroid Hormone Biosynthesis
+SERPINE1_HUMAN,SERPINE1,Label-Free Proteomics,Purine Metabolism
+SIRT1_HUMAN,SIRT1,Label-Free Proteomics,Bile Acid Metabolism
+SIRT3_HUMAN,SIRT3,Label-Free Proteomics,Sphingolipid Metabolism
+SLC2A1_HUMAN,SLC2A1,TMT Proteomics,Purine Metabolism
+SLC2A2_HUMAN,SLC2A2,Label-Free Proteomics,Sphingolipid Metabolism
+SLC2A4_HUMAN,SLC2A4,Label-Free Proteomics,Steroid Hormone Biosynthesis
+SOD1_HUMAN,SOD1,Label-Free Proteomics,Nucleotide Metabolism
+SORBS1_HUMAN,SORBS1,TMT Proteomics,Nucleotide Metabolism
+SREBF1_HUMAN,SREBF1,TMT Proteomics,Purine Metabolism
+SREBF2_HUMAN,SREBF2,TMT Proteomics,Bile Acid Metabolism
+STK11_HUMAN,STK11,TMT Proteomics,Amino Acid Metabolism
+TBC1D4_HUMAN,TBC1D4,Label-Free Proteomics,Purine Metabolism
+TCF7L2_HUMAN,TCF7L2,TMT Proteomics,Sphingolipid Metabolism
+TGFB1_HUMAN,TGFB1,TMT Proteomics,Steroid Hormone Biosynthesis
+TLR2_HUMAN,TLR2,Label-Free Proteomics,Bile Acid Metabolism
+TLR4_HUMAN,TLR4,Label-Free Proteomics,Sphingolipid Metabolism
+TNF_HUMAN,TNF,Label-Free Proteomics,Glycolysis
+TNFRSF1A_HUMAN,TNFRSF1A,Label-Free Proteomics,Nucleotide Metabolism
+TNFRSF1B_HUMAN,TNFRSF1B,TMT Proteomics,Fatty Acid Oxidation
+TP53_HUMAN,TP53,Label-Free Proteomics,Bile Acid Metabolism
+TSC1_HUMAN,TSC1,TMT Proteomics,Purine Metabolism
+TSC2_HUMAN,TSC2,Label-Free Proteomics,Purine Metabolism
+VEGFA_HUMAN,VEGFA,TMT Proteomics,Lipid Metabolism
+VWF_HUMAN,VWF,Label-Free Proteomics,Glycolysis
+WFS1_HUMAN,WFS1,Label-Free Proteomics,Sphingolipid Metabolism
+XBP1_HUMAN,XBP1,TMT Proteomics,Steroid Hormone Biosynthesis
