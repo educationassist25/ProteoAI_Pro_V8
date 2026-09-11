@@ -1660,7 +1660,7 @@ with TABS[10]:
     if stats_df is not None:
         method = st.selectbox(
             "Method", ["STRING Functional Enrichment", "Over-Representation Analysis (Enrichr)",
-                       "Preranked GSEA (Subramanian et al. 2005)"],
+                       "Gene Set Enrichment Analysis (GSEA)"],
             key="gsea_method"
         )
 
