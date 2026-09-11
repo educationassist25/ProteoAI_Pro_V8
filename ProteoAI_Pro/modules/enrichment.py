@@ -38,8 +38,8 @@ ENRICHR_BASE = "https://maayanlab.cloud/Enrichr"
 STRING_BASE = "https://string-db.org/api"
 
 ENRICHR_LIBRARIES = [
-    "GO_Biological_Process_2023", "GO_Molecular_Function_2023", "GO_Cellular_Component_2023",
-    "KEGG_2021_Human", "Reactome_2022", "WikiPathways_2023_Human", "MSigDB_Hallmark_2020",
+    "GO_Biological_Process_2026", "GO_Molecular_Function_2026", "GO_Cellular_Component_2026",
+    "KEGG_2026", "Reactome_Pathways_2024", "WikiPathways_2024_Human", "WikiPathways_2024_Mouse", "HMDB_Metabolites", "MSigDB_Hallmark_2020",
 ]
 
 STRING_SPECIES = {
